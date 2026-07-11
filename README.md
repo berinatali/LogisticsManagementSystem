@@ -98,6 +98,10 @@ Logistics-Management-System
 │   └── Reports.sql
 │
 │── README.md
+##
+Entity Relationship Diagram
+
+![Database Diagram](database_diagram.png)
 
 Installation
 
